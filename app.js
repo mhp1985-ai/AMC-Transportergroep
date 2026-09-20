@@ -5,9 +5,10 @@ const TIMES = [
   
   "08:00 / 17:00",
   "08:00 / 18:00",
-  "08:00 / 18:00",
+
   "13:00 / 22:00",
-  "17:00 / 06:00 (volgende dag)",
+  
+  "18:00 / 06:00 (volgende dag)",
   "22:00 / 06:00 (volgende dag)"
 ];
 const CAPACITY = 8;
